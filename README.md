@@ -46,10 +46,4 @@ This project is a web-based Hospital Management System developed to streamline t
 - Default login credentials can be modified via the database.
 - Ensure MySQL and Apache are running before launching the system.
 
-## 🙌 Credits
 
-Developed as part of a web development project to improve hospital workflow and record management.
-
----
-
-Would you like me to include sample login credentials or screenshots in the README as well?
