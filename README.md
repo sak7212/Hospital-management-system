@@ -1,7 +1,3 @@
-# Hospital-management-system
-Got it! Since the README you uploaded is for a **Hospital Management System** that runs on **localhost using XAMPP**, here’s a professional and descriptive README content you can add to your repository:
-
----
 
 ## 🏥 Hospital Management System
 
